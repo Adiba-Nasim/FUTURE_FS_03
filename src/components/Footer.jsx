@@ -32,7 +32,7 @@ export default function Footer({ id }) {
         </div>
         <div className="footer-col">
           <div className="footer-col-title">-Contact-</div>
-          <a href="https://mtt-crm.vercel.app/enquiry">WhatsApp Chat</a>
+          <a href="https://mtt-crm.vercel.app/enquiry">Enquiry</a>
           <a href="https://wa.me/8521300000">WhatsApp Chat</a>
           <a href="mailto:hello@motherstouchtiffin.com">Mail Us</a>
           <Link to="/menu">Subscription Plans--To Be Added Soon :)</Link>
